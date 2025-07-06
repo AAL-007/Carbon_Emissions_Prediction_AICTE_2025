@@ -5,6 +5,7 @@ This project aims to predict the CO2 emission from various parameters such as co
 Link to the Model: https://drive.google.com/file/d/121dAVymyuh9PAaf1QUmX3j9GYiIRJNXc/view?usp=drivesdk
 
 🌍 Carbon Emissions Predictor: 
+<br>
 A Data-Driven Approach to Climate Action
 Project Overview
 Welcome to the Carbon Emissions Predictor! This project demonstrates how data science
@@ -12,7 +13,7 @@ and machine learning can be used to understand and forecast CO2 emissions across
 countries. My goal was to build a reliable model that can help inform strategies for a greener
 future, making a tangible impact on environmental sustainability.
 
-📊 Project Structure
+📊 Project Structure:
 <br>
 ● climate_change_download_0.xls - Data.csv: The core dataset containing various climate
 indicators.
@@ -27,7 +28,7 @@ indicators.
 <br>
 ● Week 3.ipynb: Machine Learning Model Training (Random Forest) and Prediction.
 
-🌱 Environmental Impact & Green Tech Alignment
+🌱 Environmental Impact & Green Tech Alignment:
 <br>
 This project isn't just about code; it's about making a difference. By accurately predicting CO2
 emissions, we can:
@@ -41,7 +42,7 @@ realistic emission reduction targets.
 ● Raise Awareness: Highlight emission trends to encourage sustainable practices and
 foster a global commitment to climate action.
 
-💡 Future Enhancements
+💡 Future Enhancements:
 <br>
 I'm continuously learning and looking to improve! Future enhancements for this project could
 include:
